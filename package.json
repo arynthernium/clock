@@ -1,0 +1,26 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "An app to view Discord account data exports in a nice and easily understandable format.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arynthernium/clock.git"
+  },
+  "author": "aryn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arynthernium/clock/issues"
+  },
+  "homepage": "https://github.com/arynthernium/clock#readme",
+  "devDependencies": {
+    "electron": "^13.1.1"
+  },
+  "dependencies": {
+    "electron-aspectratio": "^1.0.1"
+  }
+}
